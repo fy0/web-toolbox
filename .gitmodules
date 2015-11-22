@@ -1,0 +1,15 @@
+[submodule "001-fpage"]
+	path = 001-fpage
+	url = git@github.com:fy0/fpage.git
+[submodule "002-my-object-id"]
+	path = 002-my-object-id
+	url = git@github.com:fy0/my-object-id.git
+[submodule "003-jsdict"]
+	path = 003-jsdict
+	url = git@github.com:fy0/jsdict.git
+[submodule "004-state-obj"]
+	path = 004-state-obj
+	url = git@github.com:fy0/state-obj.git
+[submodule "005-simple_avatar"]
+	path = 005-simple_avatar
+	url = git@github.com:fy0/simple_avatar.git
